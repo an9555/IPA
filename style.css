@@ -1,0 +1,27 @@
+body {
+    background-color:#F9F5E7;
+    color:#A7727D;
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+  }
+
+button.vowel,button.consonant{
+    font-size:20px ;
+    width: 50px;
+    height: 50px;
+    background-color:#C7BCA1;
+    color:#95616b;
+    font-family: "Arvo";
+}
+
+table.one,table.two{    
+    display: flex;
+    justify-content: center;    
+    align-content: center;      
+    flex-wrap: wrap;
+    text-align: center;
+    margin-top: 60px;
+    
+}
+
+
